@@ -84,6 +84,6 @@ bridge-pattern/
 Desenvolvido por Augusto Martins como parte de um projeto acadêmico em Engenharia de Software.
 
 ---
-
+Video de apresentação do trabalho - https://youtu.be/R1i3RjZrB0o
 📅 Apresentação: síncrona (24/06) ou vídeo (30/06)  
 📘 Referência: GoF - Design Patterns: Elements of Reusable Object-Oriented Software
